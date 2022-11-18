@@ -2,15 +2,15 @@
 A multiclient chat application using java sockets
 
 # Usage
-compile the three files using this command
+Java 8 prefered. Compile these three files using this command
 ```console
 javac Server.java ClientHandler.java Client.java
 ```
-run the server using this command
+run the server:
 ```console
 java Server
 ```
-run the clients using this command
+run the clients:
 ```console
 java Client
 ```
